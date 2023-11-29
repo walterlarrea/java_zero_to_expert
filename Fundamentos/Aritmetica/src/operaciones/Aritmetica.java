@@ -15,7 +15,7 @@ public class Aritmetica {
   }
 
   public void sumar() {
-    int resultado = a + b;
+    int resultado = this.a + this.b;
     System.out.println("resultado = " + resultado);
   }
 
